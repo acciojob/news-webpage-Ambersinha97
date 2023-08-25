@@ -20,6 +20,7 @@ img {
 .latest-news-section{
 	background-color: lightgray;
 	padding: 5px;
+	margin: 5px;
 	width:300px;
 	text-align: center;
 	border-radius: 5px;
@@ -27,6 +28,7 @@ img {
 .main-news-section {
 	background-color: lightgray;
 	padding: 5px;
+	margin: 5px;
 	width:600px;
 	text-align: center;
 	border-radius: 5px;
@@ -35,6 +37,7 @@ img {
 .pictorial-news-section {
 	background-color: lightgray;
 	padding: 5px;
+	margin: 5px;
 	width:300px;
 	text-align: center;
 	border-radius: 5px;
